@@ -26,8 +26,8 @@ Features
         Purpose: Measures the strength and direction of the linear relationship between two variables.
         Output:
             Correlation coefficient (r).
-            Motivation
 
+Motivation
 This project is an opportunity to:
 
     Solidify my understanding of statistics.
