@@ -1,8 +1,8 @@
-#Stat-Tool
+# Stat-Tool
 Stat-Tool is a statistical calculator designed to perform two-sample t-tests (for independent samples) and calculate Pearson's correlation coefficient between two variables.
 
-#Features
-##T-Test Calculator
+# Features
+## T-Test Calculator
 Purpose: Compares the means of two independent samples to determine if they are significantly different.
 
 Key Features:
@@ -11,34 +11,38 @@ Uses Levene's test to check for equal variances between samples.
 
 Computes the following:
 
-Standard errors
+    Standard errors
 
-Degrees of freedom
+    Degrees of freedom
 
-T-statistic
+    T-statistic
 
 Outputs:
 
-T-statistic
+    T-statistic
 
-Degrees of freedom
+    Degrees of freedom
 
-Variance of the first variable
+    Variance of the first variable
 
-Variance of the second variable
+    Variance of the second variable
 
 Dependencies:
 
-math: For fundamental mathematical operations.
+    math: For fundamental mathematical operations.
 
-scipy.stats: Specifically for Levene's test.
+    scipy.stats: Specifically for Levene's test.
 
-##Pearson's Correlation Coefficient Calculator
-Purpose: Measures the strength and direction of the linear relationship between two variables.
+## Pearson's Correlation Coefficient Calculator
+Purpose:
 
-Output: Correlation coefficient (r).
+    Measures the strength and direction of the linear relationship between two variables.
 
-#Motivation
+Output:
+
+    Correlation coefficient (r).
+
+# Motivation
 This project serves as a personal challenge and learning opportunity to:
 Solidify my understanding of statistics.
 
@@ -46,7 +50,7 @@ Apply and deepen my knowledge of object-oriented programming in Python.
 
 This is my first project built using Python (or any programming language). I welcome feedback, reviews, and constructive criticism.
 
-#Usage and Reproduction
+# Usage and Reproduction
 Feel free to use and reproduce this project, but kindly refrain from pushing changes directly to the main branch.
 
-#Thank You!
+# Thank You!
