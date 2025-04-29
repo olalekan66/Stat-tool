@@ -44,9 +44,10 @@ Output:
 
 # Motivation
 This project serves as a personal challenge and learning opportunity to:
-Solidify my understanding of statistics.
 
-Apply and deepen my knowledge of object-oriented programming in Python.
+- Solidify my understanding of statistics.
+
+- Apply and deepen my knowledge of object-oriented programming in Python.
 
 This is my first project built using Python (or any programming language). I welcome feedback, reviews, and constructive criticism.
 
